@@ -1,1 +1,1 @@
-breast cancer detection with ML
+Cancer Detection with SVM and KNN
